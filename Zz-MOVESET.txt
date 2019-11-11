@@ -1,0 +1,83 @@
+
+A - Light Combo
+
+B - Heavy Combo
+
+C - Ki Blast
+
+S - Power Charge
+
+COMBOS:
+
+Base Form:
+
+a,a,a,a - Light
+
+b,b,b - Heavy
+
+a,b - Air
+
+a,a,a,a,b,b,b,a,b - Full
+
+Golden Form:
+
+a,a,a,a,a - Light
+
+b,b,b,b,b - Heavy
+
+a,a,a,a,a,b - Air
+
+a,a,a,a,a,b,b,b,b,b,a,a,a,a,a,b - Full
+
+SPECIALS:
+
+Base Form:
+
+D,DF,F,a - Death Beam
+
+D,DB,B,a - Death Storm
+
+D,DF,F,b - Death Slicer
+
+D,DB,B,b - Nova Strike
+
+D,DF,F,c - Last Emperor
+
+D,DB,B,c - Chonoryoku
+
+D+a - Golden Frieza
+
+D+b - Death Psycho Bomb
+
+D+c - 100% Full Power
+
+
+Golden Form
+
+D,DF,F,a - Ricochet Death Beam
+
+D,DB,B,a - Death Storm
+
+D,DF,F,b - Triple Death Slicer
+
+D,DB,B,b - Nova Strike
+
+D,DF,F,c - Emperor's Death Beam
+
+D,DB,B,c - Emperor's Edge
+
+D+b - Death Psycho Bomb
+
+D+c - Emperor's Wrath
+
+D+S - Base Form
+
+SUPER: 
+
+Base Form:
+
+x - Death Ball
+
+Golden Form:
+
+x - Supernova
